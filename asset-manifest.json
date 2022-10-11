@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/hoo-bank-react-tailwind/static/css/main.073c9b0a.css",
-    "main.js": "/hoo-bank-react-tailwind/static/js/main.eb8f7204.js",
-    "static/js/787.971aa356.chunk.js": "/hoo-bank-react-tailwind/static/js/787.971aa356.chunk.js",
-    "static/media/logo.svg": "/hoo-bank-react-tailwind/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/hoo-bank-react-tailwind/static/css/main.bcf9a7e2.css",
+    "main.js": "/hoo-bank-react-tailwind/static/js/main.0cb85398.js",
     "index.html": "/hoo-bank-react-tailwind/index.html",
-    "main.073c9b0a.css.map": "/hoo-bank-react-tailwind/static/css/main.073c9b0a.css.map",
-    "main.eb8f7204.js.map": "/hoo-bank-react-tailwind/static/js/main.eb8f7204.js.map",
-    "787.971aa356.chunk.js.map": "/hoo-bank-react-tailwind/static/js/787.971aa356.chunk.js.map"
+    "main.bcf9a7e2.css.map": "/hoo-bank-react-tailwind/static/css/main.bcf9a7e2.css.map",
+    "main.0cb85398.js.map": "/hoo-bank-react-tailwind/static/js/main.0cb85398.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.eb8f7204.js"
+    "static/css/main.bcf9a7e2.css",
+    "static/js/main.0cb85398.js"
   ]
 }
